@@ -1,0 +1,16 @@
+$font-size: 20px;
+$blue-denim: #1761d8;
+$button-font-color: #fff;
+$text-font-color: #ce1c1c;
+
+.hello-world-button{
+	font-size: $font-size;
+	padding: 7px 15px;
+	background-color: $blue-denim;
+	color: $button-font-color;
+}
+
+.hello-world-text{
+	color: $text-font-color;
+	font-weight: 800;
+}
