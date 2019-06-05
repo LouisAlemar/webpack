@@ -1,0 +1,11 @@
+.hello-world-button{
+	font-size: 20px;
+	padding: 7px 15px;
+	background-color: #1761d8;
+	color: #fff;
+}
+
+.hello-world-text{
+	color: #1761d8;
+	font-weight: 800;
+}
